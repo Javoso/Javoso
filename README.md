@@ -24,7 +24,7 @@
   <img align="center" alt="Javoso-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Javoso-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <hr/>
-  ![Snake animation}(https://github.com/Javoso/Javoso/blob/output/github-contribution-grid-snake.svg)
+  [Snake animation}(https://github.com/Javoso/Javoso/blob/output/github-contribution-grid-snake.svg)
   <!--
     <img align="center" alt="Javoso-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img align="center" alt="Javoso-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
