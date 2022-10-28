@@ -15,4 +15,4 @@ jobs:
         with:
            user_name: Javoso
            text: JAVOSO
-      - uses: Javoso/simple-push-action@v1
+      - uses: Javoso/javoso@v1
