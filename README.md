@@ -2,7 +2,7 @@
 
 ##
 
-- 🔭 I'm currently working as a system analyst
+- 🔭 I'm currently working as a system analyst I
 - 🌱 I'm currently learning typescript, angular and javascript
 - 😄 Pronouns: He/His(Ele/Dele)
 ##
