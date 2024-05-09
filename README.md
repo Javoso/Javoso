@@ -9,7 +9,7 @@
   <img height="10%" width="57%" src="https://github-readme-stats.vercel.app/api?username=Javoso&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"/>
   <img height="10%" width="41%"src="https://github-readme-stats.vercel.app/api/top-langs/?username=Javoso&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
-<hr/>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
